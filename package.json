@@ -1,5 +1,5 @@
 {
-  "name": "integration-kissmetrics",
+  "name": "@astronomerio/integration-kissmetrics",
   "version": "1.1.1",
   "private": true,
   "description": "KISSmetrics server-side integration",
